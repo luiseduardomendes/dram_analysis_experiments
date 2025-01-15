@@ -1,3 +1,6 @@
+#
+*.pyc
+
 # Prerequisites
 *.d
 
@@ -50,3 +53,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+*.log
+*.stl
+*.trace
+*.jpg
+*.csv
+*.tdb
+*.json
