@@ -61,4 +61,3 @@ dkms.conf
 *.jpg
 *.csv
 *.tdb
-*.json

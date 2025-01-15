@@ -1,0 +1,22 @@
+{
+  "control": {
+    "path": "/home/luismendes/dram_analysis_experiments/address_mapping/",
+    "prefix": "addr_map",
+    "ctrl_path": "control",
+    "input_path": "input",
+    "apps":[
+      "yololite"
+    ],
+    "addr_map":{
+      "addressmapping_01": "/home/luismendes/dram_analysis_experiments/address_mapping/dsys_cfg/ddr4-example-map-01.json",
+      "addressmapping_02": "/home/luismendes/dram_analysis_experiments/address_mapping/dsys_cfg/ddr4-example-map-02.json",
+      "addressmapping_03": "/home/luismendes/dram_analysis_experiments/address_mapping/dsys_cfg/ddr4-example-map-03.json",
+      "addressmapping_04": "/home/luismendes/dram_analysis_experiments/address_mapping/dsys_cfg/ddr4-example-map-04.json",
+      "addressmapping_05": "/home/luismendes/dram_analysis_experiments/address_mapping/dsys_cfg/ddr4-example-map-05.json",
+      "addressmapping_06": "/home/luismendes/dram_analysis_experiments/address_mapping/dsys_cfg/ddr4-example-map-06.json"
+    },
+    "var_n_val":{
+      "cluster":[2, 4, 8, 16]
+    }
+  }
+}
